@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MatsuzawaKiku
-- 👀 I’m interested in game programming
+- 👀 I’m interested in AI and VR game developing
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yixuan.qin@mail.mcgill.ca
+- 💞️ Looking forward to learn more about software development
+- 📫 Please reach me yixuan.qin@mail.mcgill.ca
 
 <!---
 MatsuzawaKiku/MatsuzawaKiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
