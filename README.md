@@ -3,7 +3,6 @@
 - 🌱 I’m currently in software engineering program at McGill
 - 💞️ Looking forward to learn more about complete software development process
 - 📫 Please reach me yixuan.qin@mail.mcgill.ca
-- p.s. I've written some very basic java application for practicing
 
 <!---
 MatsuzawaKiku/MatsuzawaKiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
