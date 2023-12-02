@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Yixuan!🙋🏻‍♀️</h1>
 <h4 align="center">I'm currently a U3 software engineering co-op student at McGill University, seeking summer internships. <br>
-  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/main/CV2023.pdf")
+  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/b21b492f0015769cc16c9df60c6f1dc768cc9b6d/CV2023.pdf")
 target="_blank">resume</a> for more!</h4>
 </div>
 
