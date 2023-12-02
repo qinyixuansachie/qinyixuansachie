@@ -1,14 +1,15 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Yixuan!🙋🏻‍♀️</h1>
 <h4 align="center">I'm currently a U3 software engineering co-op student at McGill University, seeking summer internships. <br>
-  Please See my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more!</h4>
+  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/files/13537414/CV2023.pdf")
+target="_blank">resume</a> for more!</h4>
 </div>
 
 -----
 
 - 🧑🏻‍🎓 I’m currently in software engineering program at McGill, expecting to graduate in May 2025
-- 👋 I have experience of working as a full stack java developer for Morgan Stanley
-- 👀 I’m interested in backend development/cyber security/clouds
+- 💼 I have experience of working as a full stack java developer for Morgan Stanley
+- 🧐 I’m interested in backend development/cyber security/clouds
 - 💞️ Looking forward to learn more about software architecture design
 - 📫 Feel free to reach me out yixuan.qin@mail.mcgill.ca
 
