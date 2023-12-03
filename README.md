@@ -26,6 +26,7 @@ target="_blank">resume</a> for more!</h4>
   </a>
 </p>
 
+<!---
 <p>
   <h2 style="display: inline-block"  align="center">Projects I Accomplished</h2>
   <h4>
@@ -34,6 +35,7 @@ target="_blank">resume</a> for more!</h4>
   </ul>
   </h4>
 </p>
+--->
 
 <!---
 MatsuzawaKiku/MatsuzawaKiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
