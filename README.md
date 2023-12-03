@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Yixuan!🙋🏻‍♀️</h1>
 <h4 align="center">I'm currently a U3 software engineering co-op student at McGill University, seeking summer internships. <br>
-  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/b21b492f0015769cc16c9df60c6f1dc768cc9b6d/CV2023.pdf")
+  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/b21b492f0015769cc16c9df60c6f1dc768cc9b6d/CV2023.pdf"
 target="_blank">resume</a> for more!</h4>
 </div>
 
@@ -24,6 +24,11 @@ target="_blank">resume</a> for more!</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gradle,jenkins,discord,docker,kafka,ocaml,postgres,spring,github,html,idea,java,js,vue,visualstudio,py,react,redux&perline=14" />
   </a>
+</p>
+
+<p>
+  <h2 style="display: inline-block"  align="center">Projects I Accomplished</h2>
+  - <a href="https://github.com/McGill-ECSE321-Fall2022/project-group-08" style="text-decoration:none" target="_blank">Museum Management Web Application</a>
 </p>
 
 <!---
