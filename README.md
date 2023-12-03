@@ -28,7 +28,11 @@ target="_blank">resume</a> for more!</h4>
 
 <p>
   <h2 style="display: inline-block"  align="center">Projects I Accomplished</h2>
-  - <a href="https://github.com/McGill-ECSE321-Fall2022/project-group-08" style="text-decoration:none" target="_blank">Museum Management Web Application</a>
+  <h4>
+  <ul>
+    <li><a href="https://github.com/McGill-ECSE321-Fall2022/project-group-08" style="text-decoration:none" target="_blank">Museum Management Web Application</a></li>
+  </ul>
+  </h4>
 </p>
 
 <!---
