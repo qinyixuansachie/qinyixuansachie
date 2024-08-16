@@ -101,7 +101,7 @@ an Agile Methodology-driven team.</li>
     <li><a href="https://github.com/qinyixuansachie/MakeMyChoice" style="text-decoration:none" target="_blank">Make My Choice</a></li>
   </ul>
   <ul>
-    <li><a href="https://github.com/qinyixuansachie/Every_Greeting" style="text-decoration:none" target="_blank">Make My Choice</a></li>
+    <li><a href="https://github.com/qinyixuansachie/Every_Greeting" style="text-decoration:none" target="_blank">Everyday Greeting</a></li>
   </ul>
   </h4>
 </p>
