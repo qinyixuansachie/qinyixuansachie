@@ -8,7 +8,7 @@
 
 - 🧑🏻‍🎓 I’m currently in software engineering program at McGill, expecting to graduate in Dec 2025
 - 💼 I have experience of working as a full stack java developer for Morgan Stanley
-- 🧐 I’m interested in backend development/cyber security/clouds
+- 🧐 I’m interested in backend development/cloud/data engineering
 - 💞️ Looking forward to learn more about software architecture design
 - 📫 Feel free to reach me out yixuan.qin@mail.mcgill.ca
 
