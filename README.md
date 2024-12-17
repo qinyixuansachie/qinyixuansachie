@@ -51,6 +51,7 @@
 the Horse Power Ton Analyzer (HPTA) system. </li>
         <li>Redesigned and optimized the Data Extraction Tool</li>
         <li>Optimized Message Simulator</li>
+        <li>Developed project dev UI</li>
       </ul>
     </td>
     <td width="200" align="right">
