@@ -85,7 +85,7 @@ an Agile Methodology-driven team.</li>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,git,gradle,jenkins,discord,docker,kafka,ocaml,postgres,spring,github,html,idea,java,js,vue,visualstudio,py,react, kubernetes, redux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,git,gradle,jenkins,discord,docker,kafka,ocaml,postgres,spring,github,html,idea,java,js,vue,visualstudio,py,react,linux,jira,javascript,redux&perline=14" />
   </a>
 </p>
 
