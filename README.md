@@ -92,6 +92,12 @@ an Agile Methodology-driven team.</li>
   <h2 style="display: inline-block"  align="center">Projects I Accomplished</h2>
   <h4>
   <ul>
+    <li><a href="[https://github.com/qinyixuansachie/TheMaze](https://github.com/WYRP/ECSE-427-Simple-Shell-Creation)" style="text-decoration:none" target="_blank">Simple Shell (C)</a></li>
+  </ul>
+  <ul>
+    <li><a href="[https://github.com/qinyixuansachie/TheMaze](https://github.com/WYRP/ECSE-427-Simple-Shell-Creation)](https://github.com/qinyixuansachie/Multi-threading_Programs)" style="text-decoration:none" target="_blank">Multi-threading Programs (Java)</a></li>
+  </ul>
+  <ul>
     <li><a href="https://github.com/qinyixuansachie/TheMaze" style="text-decoration:none" target="_blank">The Maze (C#)</a></li>
   </ul>
   <ul>
