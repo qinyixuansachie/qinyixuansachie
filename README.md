@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Yixuan!🙋🏻‍♀️</h1>
-<h4 align="center">I'm currently a U3 software engineering co-op student at McGill University, seeking for opportunities in Software Development. <br>
+<h4 align="center">I'm currently a U4 software engineering co-op student at McGill University, seeking for opportunities in Software Development. <br>
   Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/main/Yixuan_Qin_EnglishCV.pdf">resume</a> for more!</h4>
 </div>
 
