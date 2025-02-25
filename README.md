@@ -44,6 +44,17 @@
 <table>
   <tr>
     <td>
+      <b>Capstone Project: Splash Agentic Features</b>​<br>
+      <ul>
+        <li>Works together with <a href="https://github.com/citelab/">CiteLab</a>
+          on research and development of agentic AI support for the Splash (formerly known as TCShell) language.</li>
+        <li>Added built-in LLM instance for SmartEntities (smart devices controlled by the spaces)</li>  
+        <li>Implement interactions between LLM agents using langchain StateGraph</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b>CN - Montreal, Canada</b> | May 2024 - December 2024<br />
       Software Developer Intern<br />
       <ul>
