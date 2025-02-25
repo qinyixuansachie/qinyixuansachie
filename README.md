@@ -1,8 +1,14 @@
 <div align="center">
 <h1 align="center">Hi there, I'm Yixuan!🙋🏻‍♀️</h1>
-<h4 align="center">I'm currently a U4 software engineering co-op student at McGill University, seeking for opportunities in Software Development. <br>
-  Please see my <a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/main/Yixuan_Qin_EnglishCV.pdf">resume</a> for more!</h4>
+<h4 align="center">I'm currently a U4 software engineering co-op student at McGill University, seeking for opportunities in project management. <br>
+  Please see my resume for more!
+</h4>
+
 </div>
+<ul>
+  <li><a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/main/Yixuan_Qin_EnglishCV.pdf">English CV</a></li>
+  <li><a href="https://github.com/qinyixuansachie/qinyixuansachie/blob/main/%E7%A7%A6%E8%89%BA%E8%90%B1_2026%E5%B1%8A_%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86.pdf">中文简历</a></li>
+</ul>
 
 -----
 
