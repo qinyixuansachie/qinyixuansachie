@@ -109,6 +109,9 @@ an Agile Methodology-driven team.</li>
 <p>
   <h2 style="display: inline-block"  align="center">Projects I Accomplished</h2>
   <h4>
+    <ul>
+      <li><a href="https://github.com/qinyixuansachie/Real-ESRGAN-Video-Upscalor" style="text-decoration:none" target="_blank">AI Video Upscalor with Real-ESRGAN </a></li>
+    </ul>
   <ul>
     <li><a href="https://github.com/WYRP/ECSE-427-Simple-Shell-Creation" style="text-decoration:none" target="_blank">Simple Shell (C)</a></li>
   </ul>
@@ -120,12 +123,6 @@ an Agile Methodology-driven team.</li>
   </ul>
   <ul>
     <li><a href="https://github.com/McGill-ECSE321-Fall2022/project-group-08" style="text-decoration:none" target="_blank">Museum Management Web Application</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://github.com/qinyixuansachie/MakeMyChoice" style="text-decoration:none" target="_blank">Make My Choice</a></li>
-  </ul>
-  <ul>
-    <li><a href="https://github.com/qinyixuansachie/Every_Greeting" style="text-decoration:none" target="_blank">Everyday Greeting</a></li>
   </ul>
   </h4>
 </p>
